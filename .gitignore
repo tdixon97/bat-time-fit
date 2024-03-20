@@ -1,5 +1,11 @@
 # Prerequisites
 *.d
+*~
+outputs*
+*.txt
+*.pdf
+*.root
+inputs/*
 
 # Compiled Object files
 *.slo
